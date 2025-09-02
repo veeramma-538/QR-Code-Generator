@@ -171,10 +171,6 @@ If you find a bug, please create an issue with:
 - *Browser and OS information*
 - *Screenshots* if applicable
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - *QRCode.js* - For the excellent QR code generation library
@@ -186,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - *Live Demo*: [(https://qr-gen-veeru.netlify.app/)](https://qr-gen-veeru.netlify.app/)
 - *GitHub Issues*: [Report bugs or request features](https://github.com/veeramma-538/QR-Code-Generator.git)
-- *Email*: your-email@example.com
+- *Email*: veerammasai22@gmail.com
 - *Discord*: Join our community server
 
 ## 🚀 Deployment Status
