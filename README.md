@@ -1,4 +1,3 @@
-
 # 🎯 QR Code Generator
 
 A modern, responsive web application for generating custom QR codes with real-time customization options. Built with vanilla JavaScript, HTML5, and CSS3, featuring a beautiful gradient design and smooth animations.
