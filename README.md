@@ -2,6 +2,11 @@
 
 A modern, responsive web application for generating custom QR codes with real-time customization options. Built with vanilla JavaScript, HTML5, and CSS3, featuring a beautiful gradient design and smooth animations.
 
+![QR Code Generator Preview](https://img.shields.io/badge/QR-Code%20Generator-blue?style=for-the-badge&logo=qrcode)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## ✨ Features
 
 - 🎨 *Custom QR Code Generation* - Create QR codes from URLs, text, or contact information
@@ -15,8 +20,14 @@ A modern, responsive web application for generating custom QR codes with real-ti
 - ⚡ *Real-time Preview* - See changes instantly as you customize
 - 🔄 *Loading States* - Visual feedback during generation
 
+## 🚀 Live Demo
+
+[Try the QR Code Generator Online](https://qr-gen-veeru.netlify.app/)
+
+*Live URL*: https://qr-gen-veeru.netlify.app/
 
 ## 📁 Project Structure
+
 
 Qr_code_generator/
 ├── index.html          # Main HTML structure
@@ -40,6 +51,31 @@ Qr_code_generator/
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No server setup required - runs entirely in the browser
+
+### Setup Instructions
+
+1. *Clone the repository*
+   bash
+   git clone https://github.com/veeramma-538/QR-Code-Generator.git
+   cd qr-code-generator
+   
+
+2. *Open the application*
+   - *Live Demo*: Visit [(https://qr-gen-veeru.netlify.app/]
+   - *Local Development*: Simply open index.html in your web browser
+   - *Development Server* (optional):
+     bash
+     # Using Python 3
+     python -m http.server 8000
+     
+     # Using Node.js
+     npx serve .
+     
+     # Using PHP
+     php -S localhost:8000
+     
+
+3. *Start generating QR codes!*
 
 ## 🎯 Usage
 
@@ -135,6 +171,9 @@ If you find a bug, please create an issue with:
 - *Browser and OS information*
 - *Screenshots* if applicable
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -142,3 +181,22 @@ If you find a bug, please create an issue with:
 - *Tailwind CSS* - For the utility-first CSS framework
 - *Font Awesome* - For the beautiful icons
 - *Open Source Community* - For inspiration and support
+
+## 📞 Support
+
+- *Live Demo*: [(https://qr-gen-veeru.netlify.app/)](https://qr-gen-veeru.netlify.app/)
+- *GitHub Issues*: [Report bugs or request features](https://github.com/veeramma-538/QR-Code-Generator.git)
+- *Email*: your-email@example.com
+- *Discord*: Join our community server
+
+## 🚀 Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://qr-gen-veeru.netlify.app/)
+*Live Site*: [https://qr-gen-veeru.netlify.app/](https://qr-gen-veeru.netlify.app/)
+
+---
+<div align="center">
+  <p>Made with ❤ by [Ede Durga Rajya Veeramma]</p>
+  <p>If this project helps you, please give it a ⭐!</p>
+</div>
+
