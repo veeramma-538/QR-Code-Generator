@@ -187,12 +187,13 @@ If you find a bug, please create an issue with:
 
 ## 🚀 Deployment Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://qr-gen-veeru.netlify.app/)
+[![Netlify Status](<img width="954" height="779" alt="Screenshot 2025-09-02 090437" src="https://github.com/user-attachments/assets/bcc435c4-97f8-436a-9dd4-a16feea1850f" />
+)](https://qr-gen-veeru.netlify.app/)
 *Live Site*: [https://qr-gen-veeru.netlify.app/](https://qr-gen-veeru.netlify.app/)
 
 ---
 <div align="center">
-  <p>Made with ❤ by [Ede Durga Rajya Veeramma]</p>
+  <p>Made with ❤ by Ede Durga Rajya Veeramma</p>
   <p>If this project helps you, please give it a ⭐!</p>
 </div>
 
